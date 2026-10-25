@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="47" viewBox="0 0 900 47" role="img" aria-label="Tyger motif divider">
+ <defs><linearGradient id="line"><stop stop-color="#0d1117"/><stop offset=".46" stop-color="#8d7756"/><stop offset=".54" stop-color="#8d7756"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+ <path d="M5 23.5H420M480 23.5H895" stroke="url(#line)" fill="none" stroke-width="1"/>
+ <path d="M450 5 463 23.5 450 42 437 23.5Z" fill="#a88b5b" opacity=".8"/>
+ <path d="M450 15 456 23.5 450 32 444 23.5Z" fill="#0d1117"/>
+</svg>
