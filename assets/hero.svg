@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="326" viewBox="0 0 1100 326" role="img" aria-labelledby="t d">
+<title id="t">Anas Jaidi, Tyger Tyger</title><desc id="d">Animated dark cyberpunk name banner with glowing cyan and violet, sweeping light trails, an abstract anime-inspired eye, and a blinking cursor.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03050b"/><stop offset=".56" stop-color="#080a19"/><stop offset="1" stop-color="#050815"/></linearGradient>
+ <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52d8ff" stop-opacity="0"/><stop offset=".5" stop-color="#52d8ff" stop-opacity=".5"/><stop offset="1" stop-color="#52d8ff" stop-opacity="0"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#caa5ff"/><stop offset=".48" stop-color="#9c8aff"/><stop offset="1" stop-color="#6defff"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#6444df" stop-opacity=".26"/><stop offset=".7" stop-color="#0a1740" stop-opacity=".07"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4d6592" opacity=".12" stroke-width=".75"/></pattern>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+ <clipPath id="cut"><rect x="0" y="0" width="1100" height="326" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#cut)">
+ <rect width="1100" height="326" fill="url(#bg)"/>
+ <rect width="1100" height="326" fill="url(#grid)"/>
+ <circle cx="880" cy="145" r="260" fill="url(#halo)"><animate attributeName="opacity" values=".55;1;.55" dur="8s" repeatCount="indefinite"/></circle>
+ <path d="M0 258 H1100" stroke="#8060e5" stroke-width="1" opacity=".18"/>
+ <rect x="-360" y="0" width="360" height="326" fill="url(#beam)" opacity=".16"><animate attributeName="x" values="-360;1100" dur="8.5s" repeatCount="indefinite"/></rect>
+ <path d="M0 4H1100" stroke="#4a6a9f" stroke-opacity=".42"/><path d="M0 322H1100" stroke="#6a52ce" stroke-opacity=".55"/>
+ <path d="M31 33h48M31 33v48M1067 33h-48M1067 33v48M31 291h48M31 291v-48M1067 291h-48M1067 291v-48" stroke="#55dfff" stroke-width="1.4" stroke-opacity=".45" fill="none"/>
+ <g font-family="'Courier New',monospace" letter-spacing="3" font-size="12" fill="#8194aa">
+  <text x="65" y="62">IDENTITY // 001</text>
+  <text x="849" y="61">AWAKE / OBSERVING</text>
+ </g>
+ <circle cx="824" cy="57" r="4" fill="#4cebd9"><animate attributeName="opacity" values="1;.18;1" dur="2.2s" repeatCount="indefinite"/></circle>
+ <g transform="translate(66,0)">
+  <text x="0" y="164" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" letter-spacing="-4" fill="#e9f2ff" opacity="0">ANAS<animate attributeName="opacity" values="0;1;1" keyTimes="0;.28;1" dur="1.3s" fill="freeze"/></text>
+  <text x="0" y="249" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" letter-spacing="-4" fill="url(#name)" opacity="0">JAIDI<animate attributeName="opacity" values="0;1;1" keyTimes="0;.46;1" dur="1.75s" fill="freeze"/></text>
+  <rect x="300" y="198" width="5" height="57" fill="#65edff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  <text x="4" y="286" font-family="'Courier New',monospace" fill="#a6b9cf" font-size="15" letter-spacing="1.6">CURIOSITY / CODE / STRATEGY</text>
+ </g>
+ <g opacity=".78">
+  <path d="M764 114C826 60 943 63 1006 117L1033 157 1005 195C942 249 825 251 763 195L735 156Z" fill="#080d24" stroke="#655de3" stroke-width="2.1"/>
+  <path d="M783 156 Q885 76 985 156 Q885 232 783 156Z" fill="#0a1129" stroke="#75caff" stroke-width="1.9"/>
+  <path d="M804 157Q885 105 966 157Q885 212 804 157Z" fill="#40257b" opacity=".75"/>
+  <circle cx="885" cy="157" r="36" fill="#100f2c" stroke="#a288fc" stroke-width="5"/>
+  <circle cx="885" cy="157" r="13" fill="#71e7ff"><animate attributeName="r" values="12;17;12" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="885" cy="157" r="5" fill="#02050b"/>
+  <path d="M776 135 794 124M984 124 1003 135M779 181 798 191M976 191 995 181" stroke="#67ddff" stroke-width="2"/>
+  <path d="M740 112 754 75 792 67M1028 112 1014 75 976 67" stroke="#9e80ff" stroke-opacity=".45" fill="none"/>
+  <circle cx="885" cy="157" r="88" stroke="#7165e8" stroke-dasharray="5 14" fill="none" opacity=".6"><animateTransform attributeName="transform" type="rotate" from="0 885 157" to="360 885 157" dur="40s" repeatCount="indefinite"/></circle>
+  <circle cx="885" cy="157" r="114" stroke="#50a8eb" stroke-dasharray="1 18" fill="none" opacity=".35"><animateTransform attributeName="transform" type="rotate" from="360 885 157" to="0 885 157" dur="45s" repeatCount="indefinite"/></circle>
+  <ellipse cx="885" cy="157" rx="120" ry="66" fill="none" stroke="#75caff" stroke-opacity=".24"/>
+  <path d="M728 157H768M1002 157H1042" stroke="#a5b5ff" opacity=".7"/>
+ </g>
+ <g font-family="'Courier New',monospace" font-size="11" letter-spacing="3" fill="#a687f2"><text x="741" y="293">T Y G E R !    T Y G E R !</text></g>
+ <path d="M65 308h164" stroke="#6ad5ff" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="5 160;160 5;5 160" dur="5.5s" repeatCount="indefinite"/></path>
+</g>
+</svg>

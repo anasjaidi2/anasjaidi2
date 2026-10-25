@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="155" viewBox="0 0 1100 155" role="img" aria-label="Animated rotating quotes from Attack on Titan, One Piece, and Hunter x Hunter">
+<defs>
+<linearGradient id="edge"><stop stop-color="#5b36b1"/><stop offset=".5" stop-color="#4679b6"/><stop offset="1" stop-color="#5b36b1"/></linearGradient>
+<pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#445d86" opacity=".23"/></pattern>
+</defs>
+<rect x="2" y="2" width="1096" height="151" rx="12" fill="#090c1b" stroke="url(#edge)" stroke-width="1.4"/>
+<rect x="3" y="3" width="1094" height="149" rx="11" fill="url(#dots)"/>
+<rect x="25" y="22" width="4" height="109" rx="2" fill="#9e75e9"><animate attributeName="fill" values="#9e75e9;#67e8ff;#9e75e9" dur="18s" repeatCount="indefinite"/></rect>
+<text x="49" y="38" fill="#7787a8" font-size="13" letter-spacing="2.5" font-family="Consolas,monospace">// WORDS THAT STAY WITH ME</text>
+<defs><clipPath id="q0"><rect x="49" y="44" width="0" height="76"><animate attributeName="width" values="0;980;980;0;0" keyTimes="0;.17;.27;.32;1" dur="18s" begin="0s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text clip-path="url(#q0)" x="49" y="91" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="24" fill="#a68bff">“If you don&#x27;t fight, you can&#x27;t win.”</text>
+<text x="49" y="128" font-family="Consolas,monospace" font-size="13" font-weight="bold" letter-spacing="3" fill="#95a8c7" opacity="0">// ATTACK ON TITAN
+ <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.11;.17;.29;.32;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+</text>
+<defs><clipPath id="q1"><rect x="49" y="44" width="0" height="76"><animate attributeName="width" values="0;980;980;0;0" keyTimes="0;.17;.27;.32;1" dur="18s" begin="6s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text clip-path="url(#q1)" x="49" y="91" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="22" fill="#74dbff">“When do you think people die? When they are forgotten.”</text>
+<text x="49" y="128" font-family="Consolas,monospace" font-size="13" font-weight="bold" letter-spacing="3" fill="#95a8c7" opacity="0">// ONE PIECE
+ <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.11;.17;.29;.32;1" dur="18s" begin="6s" repeatCount="indefinite"/>
+</text>
+<defs><clipPath id="q2"><rect x="49" y="44" width="0" height="76"><animate attributeName="width" values="0;980;980;0;0" keyTimes="0;.17;.27;.32;1" dur="18s" begin="12s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text clip-path="url(#q2)" x="49" y="91" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="24" fill="#e1b8ff">“Enjoy the little detours.”</text>
+<text x="49" y="128" font-family="Consolas,monospace" font-size="13" font-weight="bold" letter-spacing="3" fill="#95a8c7" opacity="0">// HUNTER × HUNTER
+ <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.11;.17;.29;.32;1" dur="18s" begin="12s" repeatCount="indefinite"/>
+</text>
+<path d="M1030 35l28 0M1044 21v28" stroke="#5d82b4" stroke-width="1.2" opacity=".55"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="68" viewBox="0 0 1100 68" role="img" aria-label="Animated intro: curiosity, problem-solving, lifelong learning">
+<defs>
+<linearGradient id="pane" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#070d1a"/><stop offset="1" stop-color="#0b1021"/></linearGradient>
+</defs>
+<clipPath id="clip0"><rect x="45" y="0" width="0" height="68">
+<animate attributeName="width" values="0;1010;1010;0;0" keyTimes="0;0.12723;0.19866;0.21875;1" dur="22.4s" begin="0.0s" repeatCount="indefinite"/>
+</rect></clipPath>
+<g clip-path="url(#clip0)">
+<text x="45" y="38.8" font-family="Consolas,DejaVu Sans Mono,Courier New,monospace" font-size="23" font-weight="600" fill="#79e4ff">&gt; curiosity is my default setting.</text>
+</g>
+<clipPath id="clip1"><rect x="45" y="0" width="0" height="68">
+<animate attributeName="width" values="0;1010;1010;0;0" keyTimes="0;0.12723;0.19866;0.21875;1" dur="22.4s" begin="5.6s" repeatCount="indefinite"/>
+</rect></clipPath>
+<g clip-path="url(#clip1)">
+<text x="45" y="38.8" font-family="Consolas,DejaVu Sans Mono,Courier New,monospace" font-size="23" font-weight="600" fill="#b69aff">&gt; give me a problem worth solving.</text>
+</g>
+<clipPath id="clip2"><rect x="45" y="0" width="0" height="68">
+<animate attributeName="width" values="0;1010;1010;0;0" keyTimes="0;0.12723;0.19866;0.21875;1" dur="22.4s" begin="11.2s" repeatCount="indefinite"/>
+</rect></clipPath>
+<g clip-path="url(#clip2)">
+<text x="45" y="38.8" font-family="Consolas,DejaVu Sans Mono,Courier New,monospace" font-size="23" font-weight="600" fill="#8de4d5">&gt; I learn a little of everything.</text>
+</g>
+<clipPath id="clip3"><rect x="45" y="0" width="0" height="68">
+<animate attributeName="width" values="0;1010;1010;0;0" keyTimes="0;0.12723;0.19866;0.21875;1" dur="22.4s" begin="16.799999999999997s" repeatCount="indefinite"/>
+</rect></clipPath>
+<g clip-path="url(#clip3)">
+<text x="45" y="38.8" font-family="Consolas,DejaVu Sans Mono,Courier New,monospace" font-size="23" font-weight="600" fill="#8bb5ff">&gt; observe. question. solve. repeat.</text>
+</g>
+</svg>
