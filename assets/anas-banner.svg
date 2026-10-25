@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Anas Jaidi — Curious by nature, problem solver by choice</title>
+<desc id="desc">Dark cinematic banner with gold tiger illustration, subdued green accents, and clear typography.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d12"/><stop offset=".52" stop-color="#121b20"/><stop offset="1" stop-color="#091014"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#b28a48" stop-opacity=".24"/><stop offset=".58" stop-color="#789a79" stop-opacity=".07"/><stop offset="1" stop-color="#020708" stop-opacity="0"/></radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4dfae"/><stop offset=".47" stop-color="#c8a56b"/><stop offset="1" stop-color="#8d7043"/></linearGradient>
+  <linearGradient id="eye" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b88a43"/><stop offset=".48" stop-color="#fff1b8"/><stop offset="1" stop-color="#b2874b"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#afc3b0" stroke-width=".5" opacity=".11"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
+  <clipPath id="clip"><rect width="1200" height="410" rx="15"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="410" fill="url(#bg)"/>
+  <rect width="1200" height="410" fill="url(#grid)"/>
+  <path d="M0 0H1200V410H0z" fill="none" stroke="#99b5a5" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M-60 410 385 0M65 410 510 0M190 410 635 0" stroke="#d8c59d" opacity=".045" stroke-width="18"/>
+  <rect x="0" y="0" width="7" height="410" fill="#b59a68"/>
+  <circle cx="917" cy="188" r="266" fill="url(#halo)"/>
+  <circle cx="918" cy="188" r="171" fill="none" stroke="#aec1af" stroke-width="1" opacity=".12" stroke-dasharray="3 10"/>
+  <circle cx="918" cy="188" r="200" fill="none" stroke="#ccb48a" stroke-width="1" opacity=".13"/>
+  <g opacity=".4" font-family="monospace" fill="#b1c8b4" letter-spacing="4" font-size="13">
+     <text x="60" y="58">FIELD NOTES   /   001</text>
+     <text x="60" y="360">BEYOND THE OBVIOUS</text>
+     <text x="1052" y="370">AJ — 01</text>
+  </g>
+  <g font-family="'Georgia', 'Times New Roman', serif">
+     <text x="55" y="176" font-size="81" font-weight="bold" fill="#f3f0e8" letter-spacing=".5">ANAS</text>
+     <text x="55" y="265" font-size="81" font-weight="bold" fill="url(#gold)" letter-spacing=".5">JAIDI</text>
+  </g>
+  <rect x="58" y="290" width="48" height="2.4" fill="#d2ae76"/>
+  <text x="121" y="297" font-family="monospace" font-size="15" letter-spacing="1.8" fill="#c0ccc2">CURIOUS BY NATURE</text>
+  <text x="58" y="322" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#c0ccc2">PROBLEM SOLVER BY CHOICE</text>
+  <!-- Original angular tiger emblem; understated manga-inspired lighting -->
+  <g transform="translate(933,206)">
+    <ellipse rx="162" ry="150" fill="#be9b63" opacity=".11" filter="url(#soft)"/>
+    <g stroke="#d1b783" stroke-opacity=".48" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-138 -91 -167 -151 -110 -140 -76 -123M138 -91 167 -151 110 -140 76 -123" fill="#151b1a"/>
+      <path d="M0 -154C-66 -155 -129 -119 -148 -49 -170 11 -136 83 -87 124 -49 160 49 160 87 124 136 83 170 11 148 -49 129 -119 66 -155 0 -154Z" fill="#15201f"/>
+      <path d="M-119 -93 -96 -131 -62 -144 -20 -151 0 -139 20 -151 62 -144 96 -131 119 -93" fill="none" opacity=".5"/>
+    </g>
+    <!-- forehead & cheek stripes -->
+    <g fill="#c4a06a" opacity=".69">
+      <path d="M-76 -131 -18 -104 -13 -64 -36 -88Z"/>
+      <path d="M76 -131 18 -104 13 -64 36 -88Z"/>
+      <path d="M-128 -86 -57 -72 -39 -46 -101 -59Z"/>
+      <path d="M128 -86 57 -72 39 -46 101 -59Z"/>
+      <path d="M-144 -22 -76 -30 -54 -7 -131 6Z"/>
+      <path d="M144 -22 76 -30 54 -7 131 6Z"/>
+      <path d="M-124 37 -74 20 -67 46 -108 73Z"/>
+      <path d="M124 37 74 20 67 46 108 73Z"/>
+    </g>
+    <g fill="#20302b" stroke="#9a916e" stroke-width="1.8">
+      <path d="M-117 -23Q-73 -52 -23 -25 -52 -5 -89 -11Z"/>
+      <path d="M117 -23Q73 -52 23 -25 52 -5 89 -11Z"/>
+    </g>
+    <g fill="url(#eye)">
+       <path d="M-109 -21Q-72 -38 -35 -22Q-66 -5 -91 -13Z"/>
+       <path d="M109 -21Q72 -38 35 -22Q66 -5 91 -13Z"/>
+       <animate attributeName="opacity" values="1;.62;1" dur="5.8s" repeatCount="indefinite"/>
+    </g>
+    <g fill="#080d0d"><path d="M-75 -32 -71 -9 -65 -32Z"/><path d="M75 -32 71 -9 65 -32Z"/></g>
+    <g fill="#c6ad7e" opacity=".65"><path d="M-17 -105 -6 -78 0 -67 6 -78 17 -105 0 -93Z"/><path d="M-24 -54 0 -39 24 -54 7 -30 0 -19 -7 -30Z"/></g>
+    <g fill="#bd9b6e" opacity=".36"><path d="M-82 49 -55 16 -33 47 -36 104 -76 91Z"/><path d="M82 49 55 16 33 47 36 104 76 91Z"/></g>
+    <path d="M-22 46 Q0 30 22 46L8 66 -8 66Z" fill="#d8ba86"/>
+    <path d="M-7 67 0 86 7 67M0 86Q-15 95 -29 87M0 86Q15 95 29 87" stroke="#d8ba86" fill="none" stroke-width="2.5" stroke-linecap="round"/>
+    <g stroke="#c6b18c" stroke-width="1.4" opacity=".45"><path d="M-27 75 -90 67M-30 84 -102 91M27 75 90 67M30 84 102 91"/></g>
+  </g>
+  <g stroke="#c6a56d" opacity=".35" stroke-width="1.4">
+     <path d="M1109 39h45v40M783 39h-40v40M1109 330h45v-40M783 330h-40v-40" fill="none"/>
+  </g>
+  <g font-family="monospace" font-size="10" fill="#96ac9d" opacity=".45" letter-spacing="2"><text x="802" y="33">OBSERVE / QUESTION / SOLVE</text></g>
+  <circle cx="1137" cy="359" r="3" fill="#d7ba83"><animate attributeName="opacity" values=".3;1;.3" dur="2.9s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
