@@ -1,9 +1,9 @@
-<!-- TYGER V3 BLACKOUT | Preview only until approved -->
+<!-- TYGER V3 BLACKOUT | synchronized animations / one rotating quote panel -->
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Anas Jaidi — TYGER V3 BLACKOUT animated hero" />
+<img src="./assets/hero.svg" width="100%" alt="Anas Jaidi — animated BLACKOUT header" />
 
-<img src="./assets/intro-typing.svg" width="100%" alt="Animated intro lines" />
+<img src="./assets/intro-typing.svg" width="100%" alt="One rotating live status message at a time" />
 
 <br />
 
@@ -11,9 +11,7 @@
 
 <br />
 
-<img src="./assets/quotes-1.svg" width="100%" alt="Rotating quotes panel one" />
-<img src="./assets/quotes-2.svg" width="100%" alt="Rotating quotes panel two" />
-<img src="./assets/quotes-3.svg" width="100%" alt="Rotating quotes panel three" />
+<img src="./assets/quotes.svg" width="100%" alt="One animated quote panel cycling through 31 quotes" />
 
 <br />
 
@@ -24,6 +22,6 @@
 <a href="https://discord.com/users/1169235117701607527"><img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&amp;logo=discord&amp;logoColor=E8EDF2" alt="Discord" /></a>
 <a href="https://www.linkedin.com/in/anas-jaidi-446588352/"><img src="./assets/linkedin-badge.svg" alt="LinkedIn" /></a>
 
-<img src="./assets/footer.svg" width="100%" alt="Animated Tyger footer" />
+<img src="./assets/footer.svg" width="100%" alt="TYGER! TYGER! animated footer" />
 
 </div>
