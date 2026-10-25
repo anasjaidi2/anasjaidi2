@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="96" viewBox="0 0 1100 96" role="img" aria-label="Animated Tyger Tyger footer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="96" viewBox="0 0 1100 96" role="img" aria-label="Tyger Tyger footer">
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#010101"/><stop offset=".28" stop-color="#9386ff"/><stop offset=".5" stop-color="#8fe7ff"/><stop offset=".72" stop-color="#5ca8ff"/><stop offset="1" stop-color="#010101"/></linearGradient></defs>
 <path d="M20 48H390M710 48H1080" stroke="url(#g)" stroke-width="1.6" opacity=".8"/>
-<circle cx="20" cy="48" r="3" fill="#8fe7ff"><animate attributeName="cx" values="20;390;20" dur="5.6s" repeatCount="indefinite"/></circle>
-<circle cx="1080" cy="48" r="3" fill="#9386ff"><animate attributeName="cx" values="1080;710;1080" dur="5.6s" repeatCount="indefinite"/></circle>
 <text x="550" y="42" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#f4f7fb">TYGER! TYGER!</text>
 <text x="550" y="68" text-anchor="middle" font-family="Consolas,monospace" font-size="12" letter-spacing="2.4" fill="#92a0b0">BLACKOUT MODE  //  KEEP LEARNING  //  KEEP BUILDING</text>
 </svg>
